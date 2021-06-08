@@ -1,0 +1,17 @@
+{
+  "name": "Jogo-Forca-API",
+  "version": "1.0.0",
+  "description": "Projeto para jogo da forca no portugol",
+  "main": "index.js",
+  "author": "Gabriel Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node src/App/index.js"
+  }
+}
